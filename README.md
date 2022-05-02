@@ -11,9 +11,9 @@ This club is for the aspiring software engineers who wants to improve there Prob
 
 ## Naming Solution file format: 
 
-- File name should start with your name followed by date in brackets
+- File name should start with your name, day number and  followed by date in brackets
 
-**Syntax:** Nitesh(2/05/22)
+**Syntax:** Nitesh_Day1(2/05/22)
 
 
 Happy Coding!!
